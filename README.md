@@ -6,4 +6,4 @@ OnShape CAD file located [here](https://cad.onshape.com/documents/7825589347d6e8
 
 The orginal files were setup for 1/4" bit and about 1/32nd of tolerance in the cut. 
 
-Reference the Instructions tab for intsructures on Part A cut and Part B cut.
+Reference the Instructions tab for intsructions on Part A cut and Part B cut.
